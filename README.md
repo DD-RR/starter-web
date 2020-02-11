@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to use Git and Github together.
 
-##Intoduccion
+## Intoduccion
 
 This is example to show different parts of the git repository and various commands using a web project.
 
@@ -16,3 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to Contribute
 
+
+### Copuright
+
+2020 Git.trionix.
