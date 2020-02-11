@@ -16,6 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to Contribute
 
+Profazor hacer un fork en este repositorio para su revisión
 
 ### Copuright
 
