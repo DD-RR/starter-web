@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Diego Rodríguez algo@algo.com @algo1
 
 # THANKS
 
