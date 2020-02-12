@@ -20,4 +20,4 @@ Profazor hacer un fork en este repositorio para su revisión
 
 ### Copuright
 
-2020 Git.trionix.
+2020 Git.trionix. Todos los derechos reservados
